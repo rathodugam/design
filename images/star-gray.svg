@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Group_410" data-name="Group 410" transform="translate(-66 -1140)">
+    <path id="Path_170" data-name="Path 170" d="M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(66 1140)" fill="#e6e6e6"/>
+    <g id="Icons" transform="translate(67.99 1142)">
+      <g id="Outlined" transform="translate(0 0)">
+        <g id="Toggle">
+          <g id="Outlined-_-Toggle-_-star" data-name="Outlined-/-Toggle-/-star">
+            <g id="Group_171" data-name="Group 171">
+              <path id="Path" d="M0,0H12.15V12.271H0Z" fill="none"/>
+              <path id="_-Icon-Color" data-name="🔹-Icon-Color" d="M7.006,9.713,10.1,11.6,9.278,8.046l2.733-2.389-3.6-.308L7.006,2,5.6,5.349,2,5.657,4.733,8.046,3.912,11.6Z" transform="translate(-0.93 -0.93)" fill="#cbcbcb" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
